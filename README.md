@@ -7,6 +7,7 @@
 
 [![ICML](https://img.shields.io/badge/ICML_2026-Page-4b44ce?style=flat-square)](https://icml.cc/virtual/2026/poster/61694)
 [![OpenReview](https://img.shields.io/badge/OpenReview-29022-b31b1b?style=flat-square)](https://openreview.net/forum?id=nfuGwj5rr5)
+[![PDF](https://img.shields.io/badge/Paper-PDF-red?style=flat-square)](https://openreview.net/pdf?id=nfuGwj5rr5)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-lightgrey?style=flat-square&logo=arxiv)]() -->
 
